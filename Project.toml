@@ -1,0 +1,13 @@
+name = "TestADDependency"
+uuid = "34f2ebba-d68a-4a13-a6cd-2ada1134ccab"
+authors = ["Adrian Hill <adrian.hill@mailbox.org>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
