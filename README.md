@@ -1,6 +1,4 @@
-# TestADDependency
-
-MWE for this AbstractDifferentiation precompilation error:
+MWE for https://github.com/JuliaDiff/AbstractDifferentiation.jl/issues/59
 
 ```julia-repl
 (TestADDependency) pkg> status
