@@ -1,6 +1,8 @@
 module TestADDependency
 
-using AbstractDifferentiation, Zygote
+import AbstractDifferentiation as AD
+import Zygote
+
 ab = AD.ZygoteBackend()
 
 end

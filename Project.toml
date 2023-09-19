@@ -8,9 +8,9 @@ AbstractDifferentiation = "c29ec348-61ec-40c8-8164-b8c60e9d9f3d"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
 [compat]
-AbstractDifferentiation = "0.4"
+AbstractDifferentiation = "0.5"
 Zygote = "0.6"
-julia = "1.6"
+julia = "1.10"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
